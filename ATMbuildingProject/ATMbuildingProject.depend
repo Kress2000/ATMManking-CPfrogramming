@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653578391 source:c:\users\user\desktop\atmbuildingproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
